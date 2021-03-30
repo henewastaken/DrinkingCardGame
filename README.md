@@ -1,4 +1,4 @@
-# DrinkingCardGame
+# DrinkingCardGame (NYA)
 
 This is an quick and dirty diringking game app i made for my friends.
 Deck of cards is created and random card is drawed --> stuff happen. 
